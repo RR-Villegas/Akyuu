@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740455446213",
+    "project_id": "akyuu-lln",
+    "storage_bucket": "akyuu-lln.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740455446213:android:726f38aacf8f3c962d62ac",
+        "android_client_info": {
+          "package_name": "com.ccslearning.akyuu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpqH_aq1znSsIFF4apPJnmWunJ4LQq5dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
